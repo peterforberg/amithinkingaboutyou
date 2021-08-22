@@ -1,6 +1,6 @@
 /* general styling */
 
-a {
+.text a {
     text-decoration: solid underline #6b8fb1 2.5px;
     color: black;
     size: 15px;
@@ -168,7 +168,10 @@ a {
           'next';
         /* grid-column-gap: 10px; - if you want gap between the columns */
       } 
-    
+      .text p {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+      }
       /* The grid container */
       .grid-container2 {
         display: grid;
