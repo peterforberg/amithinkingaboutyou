@@ -88,6 +88,10 @@
       font-family: 'Times New Roman', Times, serif;
       font-size: 20px;
     }
+    .text pre {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 20px;
+    }
   
     .displaycontent p {
       font-family: 'Times New Roman', Times, serif;
@@ -171,6 +175,11 @@
       .text p {
         font-family: 'Times New Roman', Times, serif;
         font-size: 15px;
+      }
+
+      .text pre {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
       }
       /* The grid container */
       .grid-container2 {
